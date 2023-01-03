@@ -7,7 +7,7 @@ Anda adalah seorang *data consultant* yang menangani klien *New York City Taxi a
 
 # Project Description
 - [Problem & Task](https://github.com/adrn-mm/study_case_DSLS/blob/master/resources/markdown/tasks.md)
-- [Report](https://github.com/adrn-mm/study_case_DSLS/blob/master/output/file_url.md)
+- [Results](https://github.com/adrn-mm/study_case_DSLS/tree/master/output)
 - [References](https://github.com/adrn-mm/study_case_DSLS/blob/master/resources/markdown/references.md)
 
 # Dashboard
